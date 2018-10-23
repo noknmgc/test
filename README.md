@@ -1,4 +1,3 @@
 # test
 noma
-tara
 ra
